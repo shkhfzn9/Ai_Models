@@ -146,32 +146,32 @@ MIT License
 
 ### Training Loss
 
-![Training Loss](screenshots/trainingLoss.png)
+![Training Loss](Screenshot/trainingLoss.png)
 
 ### Accuracy Plots and Training Details
 
 #### Data Conversion Process
 
-![](screenshots/dataConverstion.png)
+![](Screenshot/dataConverstion.png)
 
 #### Dataset Features, Rows, and Overview
 
-![](screenshots/datasetFeaturesRowsEtc.png)
+![](Screenshot/datasetFeaturesRowsEtc.png)
 
 #### Generated Conversation Example Using Model Training
 
-![](screenshots/generatedConversationUsingModelTraining.png)
+![](Screenshot/generatedConversationUsingModelTraining.png)
 
 #### Loading the Dataset
 
-![](screenshots/LoadingDataSet.png)
+![](Screenshot/LoadingDataSet.png)
 
 #### Saving the Trained Model and Tokenizer
 
-![](screenshots/SavingTheTrainingModelAndTokenizer.png)
+![](Screenshot/SavingTheTrainingModelAndTokenizer.png)
 
 #### Training Data Output Without Model
 
-![](screenshots/traingDataOutPutWithoutModel.png)
+![](Screenshot/traingDataOutPutWithoutModel.png)
 
 EOF
