@@ -4,10 +4,23 @@ cat <<EOF > README.md
 
 This project implements a dialogue summarizer using the **Pegasus** transformer model fine-tuned on the [DialogSum](https://huggingface.co/datasets/knkarthick/dialogsum) dataset. The model is trained and evaluated using the Hugging Face \`transformers\` and \`datasets\` libraries.
 
-> 🔧 Author: Sheikh Faizan
-> 🛠️ Framework: Hugging Face Transformers  
-> 💻 Dataset: DialogSum  
-> 🤖 Model: google/pegasus-cnn_dailymail
+---
+
+## 🔧 Author
+
+Sheikh Faizan
+
+## 🛠️ Framework
+
+Hugging Face Transformers
+
+## 💻 Dataset
+
+DialogSum
+
+## 🤖 Model
+
+google/pegasus-cnn_dailymail
 
 ---
 
@@ -115,8 +128,8 @@ pegasus-dialogsum-final/
 
 ## 📬 Contact
 
-- GitHub: [yourusername](https://github.com/shkhfzn9)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/sheikh-faizan-4a9a29326/)
+- GitHub: [shkhfzn9](https://github.com/shkhfzn9)
+- LinkedIn: [Sheikh Faizan](https://www.linkedin.com/in/sheikh-faizan-4a9a29326/)
 - Email: Sheikhfaizan.w@gmail.com
 
 ---
@@ -124,4 +137,41 @@ pegasus-dialogsum-final/
 ## 📜 License
 
 MIT License
+
+---
+
+# 🏋️‍♂️ My AI Model Training
+
+## Training Results
+
+### Training Loss
+
+![Training Loss](screenshots/trainingLoss.png)
+
+### Accuracy Plots and Training Details
+
+#### Data Conversion Process
+
+![](screenshots/dataConverstion.png)
+
+#### Dataset Features, Rows, and Overview
+
+![](screenshots/datasetFeaturesRowsEtc.png)
+
+#### Generated Conversation Example Using Model Training
+
+![](screenshots/generatedConversationUsingModelTraining.png)
+
+#### Loading the Dataset
+
+![](screenshots/LoadingDataSet.png)
+
+#### Saving the Trained Model and Tokenizer
+
+![](screenshots/SavingTheTrainingModelAndTokenizer.png)
+
+#### Training Data Output Without Model
+
+![](screenshots/traingDataOutPutWithoutModel.png)
+
 EOF
