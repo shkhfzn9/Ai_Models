@@ -115,8 +115,8 @@ pegasus-dialogsum-final/
 
 ## 📬 Contact
 
-- GitHub:(https://github.com/shkhfzn9)
-- LinkedIn: (https://www.linkedin.com/in/sheikh-faizan-4a9a29326/)
+- GitHub: [yourusername](https://github.com/shkhfzn9)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/sheikh-faizan-4a9a29326/)
 - Email: Sheikhfaizan.w@gmail.com
 
 ---
